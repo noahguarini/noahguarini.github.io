@@ -1,6 +1,6 @@
-# devgreeny.github.io
+# noahguarini.github.io
 
-Resume / portfolio site. Live at https://devgreeny.github.io
+Resume / portfolio site. Live at https://noahguarini.github.io
 
 Single static page: `index.html` holds all content in one JSON block plus the rendering code. `media/` holds compressed web versions of project demos. No build step, no dependencies.
 
